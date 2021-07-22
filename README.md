@@ -9,11 +9,15 @@
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="html5" width="40"/>
 </p>
+
 ## :monocle_face: Sample:
+
 * First it asks for the choice of fist player
+
 <p align="center">
   <img srs="https://github.com/Zenith-poriyA/Tic-tac-toe/tree/master/output/t1.PNG" alt="t1"/>
 </p>
+
 * Then it asks for name of the both players.
 <p align="center>![t2](https://github.com/Zenith-poriyA/Tic-tac-toe/tree/master/output/t2.PNG)</p>
 * We can give the position in row and column number with dash(-).
