@@ -15,7 +15,7 @@
 * First it asks for the choice of fist player
 
 <p align="center">
-  <img srs="https://raw.githubusercontent.com/Zenith-poriyA/Tic-tac-toe/master/output/t1.PNG" alt="t1" width="100"/>
+  <img srs="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t1.PNG" alt="t1" width="100"/>
 </p>
 
 * Then it asks for name of the both players.
