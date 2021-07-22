@@ -15,16 +15,35 @@
 * First it asks for the choice of fist player
 
 <p align="center">
-  <img src="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t1.PNG" alt="t1" width="500"/>
+  <img src="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t1.PNG" alt="t1" width="800"/>
 </p>
 
 * Then it asks for name of the both players.
-<p align="center>![t2](https://github.com/Zenith-poriyA/Tic-tac-toe/tree/master/output/t2.PNG)</p>
+
+<p align="center">
+  <img src="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t2.PNG" alt="t2" width="800"/>
+</p>
+
 * We can give the position in row and column number with dash(-).
-<p align="center>![t3](https://github.com/Zenith-poriyA/Tic-tac-toe/tree/master/output/t3.PNG)</p>
+
+<p align="center">
+  <img src="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t3.PNG" alt="t3" width="800"/>
+</p>
+
 * Player won message.
-<p align="center>![t4](https://github.com/Zenith-poriyA/Tic-tac-toe/tree/master/output/t4.PNG)</p>
+
+<p align="center">
+  <img src="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t4.PNG" alt="t4" width="800"/>
+</p>
+
 * When an invalid choice is entered, it is not allowed to proceed.
-<p align="center>![t5](https://github.com/Zenith-poriyA/Tic-tac-toe/tree/master/output/t5.PNG)</p>
+
+<p align="center">
+  <img src="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t5.PNG" alt="t5" width="800"/>
+</p>
+
 * Match draw message.
-<p align="center>![t6](https://github.com/Zenith-poriyA/Tic-tac-toe/tree/master/output/t6.PNG)</p>
+
+<p align="center">
+  <img src="https://github.com/Zenith-poriyA/Tic-tac-toe/blob/master/output/t6.PNG" alt="t6" width="800"/>
+</p>
